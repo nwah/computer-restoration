@@ -5,6 +5,7 @@ removed, and in many cases lost.
 
 [Download .STL file](https://github.com/nwah/3d-models/releases/latest)
 
-![Installed](z9001-cover-installed.jpg)
-![Installed](z9001-cover-bottom.jpg)
-![Installed](z9001-cover-top.jpg)
+![Installed](z9001-cover-painted-installed.jpg)
+![Bottom](z9001-cover-bottom.jpg)
+![Top](z9001-cover-top.jpg)
+![Painted](z9001-cover-painted.jpg)
