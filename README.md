@@ -8,3 +8,6 @@ Miscellaneous 3D models for vintage computer parts
 
 ## IMSAI 8080
 - [Hi-Res Panel Artwork Scan](https://github.com/nwah/computer-restoration/tree/main/imsai#hi-res-scans-of-front-panel-artwork)
+
+## Compaq
+- [Compaq Portable III and 386 Expansion Box Cover](https://github.com/nwah/computer-restoration/tree/main/compaq#compaq-portable-iii--386-expansion-box-top-cover)
